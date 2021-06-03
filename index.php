@@ -13,6 +13,9 @@ if(have_posts()):
 
 <?php echo do_shortcode('[visual_portfolio id="49"]'); ?>
 
+
+<?php echo do_shortcode('[wpgmza id="1"]'); ?>
+
 	<?php endwhile;
 
 	else: 
